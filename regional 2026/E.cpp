@@ -18,7 +18,6 @@ int main() {
         return 0;
     }
 
-
     std::vector<std::vector<int>> pend(n + 1);
     std::vector<int> e(n + 1, 0);
 
